@@ -1,0 +1,135 @@
+<Projets>
+  <Projet>
+    <Id>2</Id>
+    <Nom>ProjetProgAvancee</Nom>
+    <Sujet>Les projets a l'Ensc</Sujet>
+    <DateDebut>23/03/2020 00:00:00</DateDebut>
+    <DateFin>21/05/2020 00:00:00</DateFin>
+    <Type>Projet Informatique</Type>
+    <Participants>
+      <Participant Eleve="">
+        <Nom>Medina</Nom>
+        <Prenom>Loic</Prenom>
+        <Promotion>2022</Promotion>
+        <Role>Participant</Role>
+      </Participant>
+      <Participant Enseignant="">
+        <Nom>Clermont</Nom>
+        <Prenom>Edwige</Prenom>
+        <Matieres>
+          <Matiere>Programmation avancee</Matiere>
+          <Matiere>Base de la programmation</Matiere>
+        </Matieres>
+        <Role>Responsable</Role>
+      </Participant>
+      <Participant Enseignant="">
+        <Nom>Favier</Nom>
+        <Prenom>Pierre-Alexandre</Prenom>
+        <Matieres>
+          <Matiere>Programmation avancee</Matiere>
+          <Matiere>Base de la programmation</Matiere>
+        </Matieres>
+        <Role>Responsable</Role>
+      </Participant>
+      <Participant Enseignant="">
+        <Nom>Pesquet</Nom>
+        <Prenom>Baptiste</Prenom>
+        <Matieres>
+          <Matiere>Base de la programmation</Matiere>
+          <Matiere>Programmation avancee</Matiere>
+          <Matiere>Gestion de projet</Matiere>
+        </Matieres>
+        <Role>Responsable</Role>
+      </Participant>
+    </Participants>
+    <Livrables>
+      <Livrable>
+        <Type>Diagramme classes</Type>
+        <Date>10/04/2020 00:00:00</Date>
+        <Note>12</Note>
+      </Livrable>
+      <Livrable>
+        <Type>Code</Type>
+        <Date>21/05/2020 00:00:00</Date>
+        <Note>-1</Note>
+      </Livrable>
+    </Livrables>
+    <RenouvellementDe>-1</RenouvellementDe>
+    <Matieres>
+      <Matiere>Programmation avancee</Matiere>
+    </Matieres>
+  </Projet>
+  <Projet>
+    <Id>3</Id>
+    <Nom>EnvolA320</Nom>
+    <Sujet>Simulateur A320</Sujet>
+    <DateDebut>25/09/2018 00:00:00</DateDebut>
+    <DateFin>28/05/2020 00:00:00</DateFin>
+    <Type>TransD</Type>
+    <Participants>
+      <Participant Eleve="">
+        <Nom>Audrix</Nom>
+        <Prenom>Simon</Prenom>
+        <Promotion>2021</Promotion>
+        <Role>A320</Role>
+      </Participant>
+      <Participant Exterieur="">
+        <Nom>Letouze</Nom>
+        <Prenom>Theodore</Prenom>
+        <Entreprise>Chercheur Ensc</Entreprise>
+        <Role>Tuteur</Role>
+      </Participant>
+    </Participants>
+    <Livrables>
+      <Livrable>
+        <Type>Oral</Type>
+        <Date>24/05/2019 00:00:00</Date>
+        <Note>15</Note>
+      </Livrable>
+    </Livrables>
+    <RenouvellementDe>-1</RenouvellementDe>
+    <Matieres>
+      <Matiere>Aéronautique</Matiere>
+    </Matieres>
+  </Projet>
+  <Projet>
+    <Id>1</Id>
+    <Nom>Envol</Nom>
+    <Sujet>Simulateurs A320 et F35</Sujet>
+    <DateDebut>28/09/2019 00:00:00</DateDebut>
+    <DateFin>08/06/2020 00:00:00</DateFin>
+    <Type>TransD</Type>
+    <Participants>
+      <Participant Eleve="">
+        <Nom>Briand</Nom>
+        <Prenom>Julien</Prenom>
+        <Promotion>2022</Promotion>
+        <Role>A320</Role>
+      </Participant>
+      <Participant Eleve="">
+        <Nom>Medina</Nom>
+        <Prenom>Loic</Prenom>
+        <Promotion>2022</Promotion>
+        <Role>Regie</Role>
+      </Participant>
+      <Participant Exterieur="">
+        <Nom>Letouze</Nom>
+        <Prenom>Theodore</Prenom>
+        <Entreprise>Chercheur Ensc</Entreprise>
+        <Role>Tuteur</Role>
+      </Participant>
+    </Participants>
+    <Livrables>
+      <Livrable>
+        <Type>Site</Type>
+        <Date>08/06/2020 00:00:00</Date>
+        <Note>-1</Note>
+      </Livrable>
+    </Livrables>
+    <RenouvellementDe>3</RenouvellementDe>
+    <Matieres>
+      <Matiere>Base de la programmation</Matiere>
+      <Matiere>Aéronautique</Matiere>
+    </Matieres>
+  </Projet>
+</Projets>

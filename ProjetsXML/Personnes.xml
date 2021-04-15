@@ -1,0 +1,54 @@
+<Personnes>
+  <Eleve>
+    <Id>0</Id>
+    <Nom>Medina</Nom>
+    <Prenom>Loic</Prenom>
+    <Promotion>2022</Promotion>
+  </Eleve>
+  <Eleve>
+    <Id>1</Id>
+    <Nom>Briand</Nom>
+    <Prenom>Julien</Prenom>
+    <Promotion>2022</Promotion>
+  </Eleve>
+  <Exterieur>
+    <Id>2</Id>
+    <Nom>Letouze</Nom>
+    <Prenom>Theodore</Prenom>
+    <Entreprise>Chercheur Ensc</Entreprise>
+  </Exterieur>
+  <Enseignant>
+    <Id>3</Id>
+    <Nom>Clermont</Nom>
+    <Prenom>Edwige</Prenom>
+    <Matieres>
+      <Matiere>Programmation avancee</Matiere>
+      <Matiere>Base de la programmation</Matiere>
+    </Matieres>
+  </Enseignant>
+  <Enseignant>
+    <Id>4</Id>
+    <Nom>Favier</Nom>
+    <Prenom>Pierre-Alexandre</Prenom>
+    <Matieres>
+      <Matiere>Programmation avancee</Matiere>
+      <Matiere>Base de la programmation</Matiere>
+    </Matieres>
+  </Enseignant>
+  <Enseignant>
+    <Id>5</Id>
+    <Nom>Pesquet</Nom>
+    <Prenom>Baptiste</Prenom>
+    <Matieres>
+      <Matiere>Base de la programmation</Matiere>
+      <Matiere>Programmation avancee</Matiere>
+      <Matiere>Gestion de projet</Matiere>
+    </Matieres>
+  </Enseignant>
+  <Eleve>
+    <Id>6</Id>
+    <Nom>Audrix</Nom>
+    <Prenom>Simon</Prenom>
+    <Promotion>2021</Promotion>
+  </Eleve>
+</Personnes>
